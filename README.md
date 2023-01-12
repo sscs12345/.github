@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://shaurya-shah.vercel.app/api?username=sscs12345&show_icons=true&theme=transparent)
+[![Top Langs](https://shaurya-shah.vercel.app/api/top-langs/?username=sscs12345&layout=compact)](https://github.com/sscs12345/readme-stats)
 <!--
 
 **Here are some ideas to get you started:**

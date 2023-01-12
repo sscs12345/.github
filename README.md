@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Anurag's GitHub stats](https://shaurya-shah.vercel.app/api?username=sscs12345&show_icons=true&theme=transparent)
 <!--
 
 **Here are some ideas to get you started:**
